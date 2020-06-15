@@ -1,0 +1,24 @@
+.Label
+{
+-fx-background-color:transparent;
+-fx-font-size:30em;
+-fx-text-fill:white;
+
+}
+.TextField
+{
+-fx-background-color:transparent;
+-fx-font-size:24em;
+-fx-text-fill:white;
+-fx-border-widt:0px 0px 2px 0px;
+-fx-border-color:white;
+}
+.Buttom
+{
+-fx-background-color:#999999;
+-fx-font-size:24em;
+-fx-text-fill:white;
+-fx-border-widt:0px 0px 2px 0px;
+-fx-border-color:white;
+-fx-border-radius:100;
+}
